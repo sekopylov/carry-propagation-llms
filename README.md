@@ -1,4 +1,4 @@
-# Carry Propagation in LLMs
+# Carry Propagation in LLMs (Research in LLMs, HW8)
 
 ## 1) Goal
 1. Train a small transformer on synthetic integer addition
